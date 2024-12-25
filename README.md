@@ -1,6 +1,6 @@
 # Market Dashboard
 
-![Uploading Screenshot_20241225_140144.png…]()
+![Screenshot_20241225_140144](https://github.com/user-attachments/assets/d10e2e7b-befc-4b74-85e1-396c27bfb11e)
 
 A clean, modern dashboard for tracking cryptocurrency, stocks, and market news in real-time.
 
