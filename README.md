@@ -1,5 +1,7 @@
 # Market Dashboard
 
+![Uploading Screenshot_20241225_140144.png…]()
+
 A clean, modern dashboard for tracking cryptocurrency, stocks, and market news in real-time.
 
 ![Dashboard Screenshot](screenshot.png)
@@ -34,13 +36,6 @@ cd market-dashboard
 ```bash
 pip install flask yfinance requests pytz
 ```
-
-3. Set up your CryptoCompare API key:
-```bash
-export CRYPTOCOMPARE_API_KEY='your_api_key_here'
-```
-
-Get your free API key from [CryptoCompare](https://min-api.cryptocompare.com/)
 
 ## Usage
 
