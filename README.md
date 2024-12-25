@@ -10,6 +10,7 @@ A clean, modern dashboard for tracking cryptocurrency, stocks, and market news i
   - Bitcoin (BTC) 24-hour price chart
   - CISCO (CSCO) weekly stock performance
   - S&P 500 (FXAIX) weekly fund tracking
+  - (or whatever you want to set them to)
 - 📰 Live cryptocurrency news feed
 - 🌙 Dark theme with clean interface
 - 📱 Responsive design
